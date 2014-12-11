@@ -1,0 +1,72 @@
+ QUIZ RESULT 
+ Score : 1
+ [ 16 ] On which of the operating system below ASP.NET can run?
+ A. Windows XP Professional
+ B. Windows 2000 
+ C. Both A and B
+ D. None of the Above
+ Correct Answer : C
+ Your Answer : B
+ [ 17 ] An organization has developed a web service in which the values of the forms are validated using ASP.NET application. Suppose this web service is got and used by a customer then in such a scenario which of the following is TRUE
+ A. Such a situation cannot happen at all 
+ B. The customer must be having technology that run ASP.
+ C. The customer can run on any platform.
+ D. None of the Above
+ Correct Answer : C
+ Your Answer : C
+ [ 18 ] Which of the following denote the web control associated with Table control function of ASP.NET?
+ A. DataList
+ B. ListBox
+ C. TableRow
+ D. All the Above
+ Correct Answer : C
+ Your Answer : no answer
+ [ 21 ] In ASP.NET if you want to allows page developers a way to specify static connections in a content page then the class used is 
+ A. WebPartManager
+ B. ProxyWebPartManager
+ C. System.Activator 
+ D. None of the AboveNone of the Above
+ Correct Answer : B
+ Your Answer : no answer
+ [ 23 ] In ASP.NET if one uses Windows authentication the current request attaches an object called as
+ A. Serialization
+ B. WindowsPrincipal 
+ C. WindowDatset   
+ D. None of the Above
+ Correct Answer : B
+ Your Answer : no answer
+ [ 24 ] The GridView control in ASP.NET has which of the following features
+ A. Automatic data binding 
+ B. Automatic paging
+ C. Both A and B
+ D. None of the above
+ Correct Answer : C
+ Your Answer : no answer
+ [ 25 ] If one uses ASP.NET configuration system to restrict access which of the following is TRUE?
+ A. The access is restricted only to ASP.NET files
+ B. The access is restricted only to static files and non-ASP.NET resources.
+ C. Both A and B
+ D. None of the Above
+ Correct Answer : A
+ Your Answer : no answer
+ [ 26 ] Which of the following is true about session in ASP.NET?
+ A. Programmers has to take care of delete sessions after configurable timeout interval
+ B. ASP.NET automatically delete sessions after configurable timeout interval
+ C. The default time interval is 5 minutes
+ D. None of the Above
+ Correct Answer : B
+ Your Answer : no answer
+ [ 28 ] In ASP.NET if one wants to maintain session then which of the following is used?
+ A. In-process storage
+ B. Microsoft SQL Server 
+ C. Session State Service 
+ D. All the Above
+ Correct Answer : D
+ Your Answer : no answer
+ [ 29 ] To set page title dynamically in ASP.NET which of the following is used?
+ A. None of the above
+ B. < sheet > section
+ C. < tail > section
+ D. < head > section
+ Correct Answer : D
+ Your Answer : no answer
